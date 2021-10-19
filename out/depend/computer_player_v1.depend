@@ -1,7 +1,0 @@
-computer_player_v1.o: src/computer_player_v1.cpp \
-  include/computer_player_v1.hpp include/player.hpp include/piece.hpp \
-  include/vec2.hpp include/dumpable.hpp include/player_color.hpp \
-  include/field.hpp include/piece_detail.hpp include/move_cand.hpp \
-  include/move_enumerator_v1.hpp include/silo.hpp \
-  include/move_enumerator_v2.hpp include/board_node.hpp \
-  include/blokus_dumper.hpp

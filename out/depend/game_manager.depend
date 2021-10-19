@@ -1,6 +1,0 @@
-game_manager.o: src/game_manager.cpp include/game_manager.hpp \
-  include/player.hpp include/piece.hpp include/vec2.hpp \
-  include/dumpable.hpp include/player_color.hpp include/field.hpp \
-  include/blokus_dumper.hpp include/human_player.hpp \
-  include/computer_player_v1.hpp include/piece_detail.hpp \
-  include/move_cand.hpp

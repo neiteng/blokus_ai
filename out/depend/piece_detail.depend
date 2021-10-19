@@ -1,2 +1,0 @@
-piece_detail.o: src/piece_detail.cpp include/piece_detail.hpp \
-  include/vec2.hpp include/piece.hpp include/field.hpp

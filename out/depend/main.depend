@@ -1,6 +1,0 @@
-main.o: src/main.cpp include/field.hpp include/piece.hpp include/vec2.hpp \
-  include/blokus_dumper.hpp include/player_color.hpp include/player.hpp \
-  include/dumpable.hpp include/human_player.hpp include/game_manager.hpp \
-  include/computer_player_v1.hpp include/piece_detail.hpp \
-  include/move_cand.hpp include/move_enumerator_v1.hpp include/silo.hpp \
-  include/move_enumerator_v2.hpp include/move_enumerator_v3.hpp

@@ -1,1 +1,0 @@
-piece.o: src/piece.cpp include/piece.hpp include/vec2.hpp

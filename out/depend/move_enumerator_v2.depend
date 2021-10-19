@@ -1,5 +1,0 @@
-move_enumerator_v2.o: src/move_enumerator_v2.cpp \
-  include/move_enumerator_v2.hpp include/silo.hpp include/piece.hpp \
-  include/vec2.hpp include/piece_detail.hpp include/field.hpp \
-  include/player.hpp include/dumpable.hpp include/player_color.hpp \
-  include/move_cand.hpp

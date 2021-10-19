@@ -1,1 +1,0 @@
-dumpable.o: src/dumpable.cpp include/dumpable.hpp

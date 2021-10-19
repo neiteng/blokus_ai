@@ -1,4 +1,0 @@
-human_player.o: src/human_player.cpp include/human_player.hpp \
-  include/player_color.hpp include/player.hpp include/piece.hpp \
-  include/vec2.hpp include/dumpable.hpp include/field.hpp \
-  include/blokus_dumper.hpp
